@@ -1,6 +1,6 @@
 .nav-bar{
     background: #181818;
-    width: 90px;
+    width: 120px;
     height: 100%;
     position: absolute;
     top: 0;
@@ -29,7 +29,7 @@ nav{
         color: #4d4d4e;
         display: block;
         line-height: 51px;
-        height: 51px;
+        height: 60px;
         position: relative;
         text-decoration: none;
 
@@ -71,6 +71,11 @@ nav{
     a.about-link{
         &:after{
             content: 'ABOUT' ;
+        }
+    }
+    a.certificate-link{
+        &:after{
+            content: 'CERTIFICATE' ;
         }
     }
     a.contact-link{
