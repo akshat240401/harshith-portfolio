@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover":"/portfolio/sol-arc/solution-arch.png",
+            "title":"Solution Architect",
+            "description": "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.",
+            "url":"https://www.credly.com/badges/83b7f93f-fe27-474a-908f-5bd08c43f730/public_url"
+        },
+        {
+            "cover":"/portfolio/az-adm/azu-admin.png",
+            "title":"Azzure Administrator",
+            "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organizations Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
+            "url":"https://www.credly.com/badges/ce530e78-57a3-416e-b645-f143e2e9b836/public_url"
+        },
+        {
+            "cover":"/portfolio/az-fun/az-fund.png",
+            "title":"Azzure Fundamentals",
+            "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+            "url":"https://www.credly.com/badges/fb1d03c1-b2c0-4e6f-8a45-71246696d43d/public_url"
+        },
+        {
+            "cover":"/portfolio/it-aut/it-auto.png",
+            "title":"IT Automation with Python",
+            "description": "This six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help them advance their careers. The hands-on curriculum is designed to teach learners how to write code in Python, with a special focus on how this applies to automating tasks in the world of IT support and systems administration.",
+            "url":"https://www.credly.com/badges/cb048e2b-0d29-4b0b-97ee-4d75a68afcd5/public_url"
+        },
+        {
+            "cover":"/portfolio/it-sup/it-supp.png",
+            "title":"IT Support",
+            "description": "Those who earn the Google IT Support Certificate have completed five-courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in IT support. They are competent in foundational skills, including troubleshooting and customer service, networking, operating systems, system administration, and security.",
+            "url":"https://www.credly.com/badges/65eb223d-6331-4b0d-af62-dfeae4e4621c/public_url"
+        }
+    ]
+}
