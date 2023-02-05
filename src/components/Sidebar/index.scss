@@ -78,6 +78,11 @@ nav{
             content: 'CERTIFICATE' ;
         }
     }
+    a.project-link{
+        &a::after{
+            content: 'PROJECTS';
+        }
+    }
     a.contact-link{
         &:after{
             content: 'CONTACT' ;
